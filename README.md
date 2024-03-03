@@ -2,8 +2,8 @@
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Reddit Topic Prediction
-**Code:** ['features_engineering.R'](https://github.com/YounseoKim62/Data-Analysis-Projects/blob/6dbe17138fbba4fc10c0d29b31cf59b73d0b635d/Reddit%20Topic%20Prediction/src/features/features_engineering.R),
-['prediction_model.R'](https://github.com/YounseoKim62/Data-Analysis-Projects/blob/6dbe17138fbba4fc10c0d29b31cf59b73d0b635d/Reddit%20Topic%20Prediction/src/model/prediction%20model.R)
+**Code:** [`features_engineering.R`](https://github.com/YounseoKim62/Data-Analysis-Projects/blob/6dbe17138fbba4fc10c0d29b31cf59b73d0b635d/Reddit%20Topic%20Prediction/src/features/features_engineering.R), 
+[`prediction_model.R`](https://github.com/YounseoKim62/Data-Analysis-Projects/blob/6dbe17138fbba4fc10c0d29b31cf59b73d0b635d/Reddit%20Topic%20Prediction/src/model/prediction%20model.R)
 
 
 
