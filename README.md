@@ -1,6 +1,20 @@
 ## Data Analysis Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+### Reddit Topic Prediction
+**Code:** ['features_engineering.R']('https://github.com/YounseoKim62/Data-Analysis-Projects/blob/6dbe17138fbba4fc10c0d29b31cf59b73d0b635d/Reddit%20Topic%20Prediction/src/features/features_engineering.R'),
+['prediction_model.R']('https://github.com/YounseoKim62/Data-Analysis-Projects/blob/6dbe17138fbba4fc10c0d29b31cf59b73d0b635d/Reddit%20Topic%20Prediction/src/model/prediction%20model.R')
+
+
+
+
+
+
+
+
+
+
+
 ### Performance of Arsenal and Tottenham Against Big 6 Clubs A Goals-Based Analysis
 **Code:** [`Performance of Arsenal and Tottenham.Rmd`](https://github.com/YounseoKim62/Data-Analysis-Projects/tree/e847a085e80d1b60205c557ff7f3f9830407e7ad/Performance%20of%20Arsenal%20and%20Tottenham%20Against%20Big%206%20Clubs%20A%20Goals-Based%20Analysis)
 
