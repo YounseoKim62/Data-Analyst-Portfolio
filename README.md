@@ -14,9 +14,9 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ### Machine Learning Project Regression
-**Code:** ['ML Regression.ipynb'](https://github.com/YounseoKim62/Data-Analysis-Projects/blob/e93fd9776427cae9021b66b1ed27d494aa55fb61/Machine%20Learning%20Project%20Regression/ML%20Regression.ipynb)
+**Code:** [`ML Regression.ipynb`](https://github.com/YounseoKim62/Data-Analysis-Projects/blob/e93fd9776427cae9021b66b1ed27d494aa55fb61/Machine%20Learning%20Project%20Regression/ML%20Regression.ipynb)
 
-**Report:** ['Machine Learning Project Regression.pdf'](https://github.com/YounseoKim62/Data-Analysis-Projects/blob/e93fd9776427cae9021b66b1ed27d494aa55fb61/Machine%20Learning%20Project%20Regression/Machine%20Learning%20Project%20Regression.pdf)
+**Report:** [`Machine Learning Project Regression.pdf`](https://github.com/YounseoKim62/Data-Analysis-Projects/blob/e93fd9776427cae9021b66b1ed27d494aa55fb61/Machine%20Learning%20Project%20Regression/Machine%20Learning%20Project%20Regression.pdf)
 
 **Description:** The project focuses on using the LassoLars algorithm for predicting diabetic conditions from a medical dataset, involving stages of data preprocessing, feature engineering, model building, and hyperparameter tuning.
 
